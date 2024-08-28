@@ -1,7 +1,7 @@
 // Tubes Alpo
 // Anggota Kelompok :
 // 1. Frenwin (103052300054)
-// 2. Adelina Vivian magdiel (1030523000)
+// 2. Adelina Vivian magdiel (103052300059)
 //
 // Who one to be Millionare
 // LOGIN ADMIN
